@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89902d9a7ded5124c8adc079e3472d5f, type: 3}
+  m_Name: CubeCollectable
+  m_EditorClassIdentifier: 
+  collectableSprite: {fileID: 140331961, guid: 858c02cb2babe8a4d9e3ce2368d80665, type: 3}
